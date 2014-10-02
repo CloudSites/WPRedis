@@ -1,0 +1,24 @@
+??.wrap .admin-page-framework-container h2 {
+  font-size: 18px;
+  line-height: 24px;				
+}
+.wrap p, .wrap ul, .wrap pre { 
+  margin-left: 2em;
+}
+pre {				
+  border: 1px solid #ededed;
+  margin: 24px 2em;
+  margin: 1.714285714rem 2em;
+  padding: 24px;
+  padding: 1.714285714rem;				
+  overflow-x: auto; 
+  background-color: #FFF;
+}
+pre code {
+  color: #666;
+  font-family: Consolas, Monaco, Lucida Console, monospace;
+  line-height: 1.714285714;
+  overflow: auto;
+  background-color: transparent;
+}
+

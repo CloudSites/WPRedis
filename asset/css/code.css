@@ -1,0 +1,17 @@
+??pre {				
+  border: 1px solid #ededed;
+  margin: 24px 2em;
+  margin: 1.714285714rem 2em;
+  padding: 24px;
+  padding: 1.714285714rem;				
+  overflow-x: auto; 
+  background-color: #FFF;
+  margin-bottom: 2em;
+}
+pre code {
+  color: #666;
+  font-family: Consolas, Monaco, Lucida Console, monospace;
+  line-height: 1.714285714;
+  overflow: auto;
+  background-color: transparent;
+}
